@@ -1,0 +1,72 @@
+body{
+	margin: 0px;
+	background-image: url(/wp-content/themes/steffany/fundo.png);
+	background-color: white;
+	font-family: Arial, sans-serif;	
+}
+
+.fundoBarra{
+	height: 150px;
+	width: 100%;
+	top:0px;
+	left:0px;
+	z-index: 1;	
+}
+
+.barra{
+	width: 800px;
+	margin: auto;
+	text-align: right;
+}
+
+.logo{
+	position: relative;
+	width: 700px;
+	top:-70px;
+	left:-300px;
+	float: left;
+}
+
+.logo2{
+	position: relative;
+	width: 700px;
+	top:-300px;
+	left:-230px;
+	float: left;
+}
+
+.geral{
+	background-color: #FFFFFF;
+	width: 810px;
+	position: relative;
+	left: 45%;
+	top: 200px;
+	margin-left: -415px;
+	padding: 155px;
+	margin-top: 100px;
+}
+
+.conteudo{
+	background-color: #FFFFFF;
+	border-radius: 6px;
+	border: 1px solid #F97FCA;
+	padding: 100px;
+	width: 700px;
+	height: 1000px;	
+	position: relative;
+	left: 230px;
+	top: -90px;
+	margin-top: 100px;
+}
+
+#footer{
+	width:800px;
+	margin:100px;
+	font-size:11px;
+	text-align:right;
+}
+
+
+
+
+
